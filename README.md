@@ -37,6 +37,7 @@ Interactive Excel dashboard analyzing **profit**, **sales**, **order quantity**,
 
 ---
 
-## 📁 File
+## 📁 Files
 
 - `Sunkita-1.xlsx` – main dashboard workbook
+- `dashboard-preview.png` – snapshot of dashboard
